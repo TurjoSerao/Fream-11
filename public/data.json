@@ -1,0 +1,272 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerImage": "https://example.com/virat-kohli.png",
+    "CountryOrigin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right Arm Medium",
+    "battingStyle": "Right Hand Bat",
+    "price": 1200000
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImage": "https://example.com/babar-azam.png",
+    "CountryOrigin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right Arm Off Break",
+    "battingStyle": "Right Hand Bat",
+    "price": 1150000
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "playerImage": "https://example.com/rohit-sharma.png",
+    "CountryOrigin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right Arm Off Break",
+    "battingStyle": "Right Hand Bat",
+    "price": 1100000
+  },
+  {
+    "playerName": "Shubman Gill",
+    "playerImage": "https://example.com/shubman-gill.png",
+    "CountryOrigin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right Arm Off Break",
+    "battingStyle": "Right Hand Bat",
+    "price": 1050000
+  },
+  {
+    "playerName": "Joe Root",
+    "playerImage": "https://example.com/joe-root.png",
+    "CountryOrigin": "England",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right Arm Off Break",
+    "battingStyle": "Right Hand Bat",
+    "price": 1000000
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerImage": "https://example.com/kane-williamson.png",
+    "CountryOrigin": "New Zealand",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right Arm Off Break",
+    "battingStyle": "Right Hand Bat",
+    "price": 1000000
+  },
+  {
+    "playerName": "David Warner",
+    "playerImage": "https://example.com/david-warner.png",
+    "CountryOrigin": "Australia",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right Arm Leg Break",
+    "battingStyle": "Left Hand Bat",
+    "price": 950000
+  },
+  {
+    "playerName": "Fakhar Zaman",
+    "playerImage": "https://example.com/fakhar-zaman.png",
+    "CountryOrigin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Left Arm Orthodox",
+    "battingStyle": "Left Hand Bat",
+    "price": 850000
+  },
+  {
+    "playerName": "Litton Das",
+    "playerImage": "https://example.com/litton-das.png",
+    "CountryOrigin": "Bangladesh",
+    "playerType": "Wicket Keeper",
+    "bowlingStyle": "Right Arm Medium",
+    "battingStyle": "Right Hand Bat",
+    "price": 800000
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerImage": "https://example.com/jos-buttler.png",
+    "CountryOrigin": "England",
+    "playerType": "Wicket Keeper",
+    "bowlingStyle": "Right Arm Medium",
+    "battingStyle": "Right Hand Bat",
+    "price": 1050000
+  },
+  {
+    "playerName": "Rishabh Pant",
+    "playerImage": "https://example.com/rishabh-pant.png",
+    "CountryOrigin": "India",
+    "playerType": "Wicket Keeper",
+    "bowlingStyle": "Right Arm Medium",
+    "battingStyle": "Left Hand Bat",
+    "price": 1000000
+  },
+  {
+    "playerName": "Quinton de Kock",
+    "playerImage": "https://example.com/quinton-de-kock.png",
+    "CountryOrigin": "South Africa",
+    "playerType": "Wicket Keeper",
+    "bowlingStyle": "Right Arm Medium",
+    "battingStyle": "Left Hand Bat",
+    "price": 950000
+  },
+  {
+    "playerName": "Mohammad Rizwan",
+    "playerImage": "https://example.com/mohammad-rizwan.png",
+    "CountryOrigin": "Pakistan",
+    "playerType": "Wicket Keeper",
+    "bowlingStyle": "Right Arm Medium",
+    "battingStyle": "Right Hand Bat",
+    "price": 900000
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImage": "https://example.com/shakib-al-hasan.png",
+    "CountryOrigin": "Bangladesh",
+    "playerType": "All Rounder",
+    "bowlingStyle": "Left Arm Orthodox",
+    "battingStyle": "Left Hand Bat",
+    "price": 950000
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerImage": "https://example.com/ben-stokes.png",
+    "CountryOrigin": "England",
+    "playerType": "All Rounder",
+    "bowlingStyle": "Right Arm Fast Medium",
+    "battingStyle": "Left Hand Bat",
+    "price": 1100000
+  },
+  {
+    "playerName": "Ravindra Jadeja",
+    "playerImage": "https://example.com/ravindra-jadeja.png",
+    "CountryOrigin": "India",
+    "playerType": "All Rounder",
+    "bowlingStyle": "Left Arm Orthodox",
+    "battingStyle": "Left Hand Bat",
+    "price": 1050000
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerImage": "https://example.com/hardik-pandya.png",
+    "CountryOrigin": "India",
+    "playerType": "All Rounder",
+    "bowlingStyle": "Right Arm Fast Medium",
+    "battingStyle": "Right Hand Bat",
+    "price": 1000000
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "playerImage": "https://example.com/glenn-maxwell.png",
+    "CountryOrigin": "Australia",
+    "playerType": "All Rounder",
+    "bowlingStyle": "Right Arm Off Break",
+    "battingStyle": "Right Hand Bat",
+    "price": 950000
+  },
+  {
+    "playerName": "Shadab Khan",
+    "playerImage": "https://example.com/shadab-khan.png",
+    "CountryOrigin": "Pakistan",
+    "playerType": "All Rounder",
+    "bowlingStyle": "Right Arm Leg Break",
+    "battingStyle": "Right Hand Bat",
+    "price": 850000
+  },
+  {
+    "playerName": "Mehidy Hasan Miraz",
+    "playerImage": "https://example.com/mehidy-hasan.png",
+    "CountryOrigin": "Bangladesh",
+    "playerType": "All Rounder",
+    "bowlingStyle": "Right Arm Off Break",
+    "battingStyle": "Right Hand Bat",
+    "price": 800000
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerImage": "https://example.com/jasprit-bumrah.png",
+    "CountryOrigin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right Arm Fast",
+    "battingStyle": "Right Hand Bat",
+    "price": 1200000
+  },
+  {
+    "playerName": "Shaheen Shah Afridi",
+    "playerImage": "https://example.com/shaheen-afridi.png",
+    "CountryOrigin": "Pakistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left Arm Fast",
+    "battingStyle": "Left Hand Bat",
+    "price": 1100000
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerImage": "https://example.com/pat-cummins.png",
+    "CountryOrigin": "Australia",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right Arm Fast",
+    "battingStyle": "Right Hand Bat",
+    "price": 1100000
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerImage": "https://example.com/mitchell-starc.png",
+    "CountryOrigin": "Australia",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left Arm Fast",
+    "battingStyle": "Left Hand Bat",
+    "price": 1050000
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerImage": "https://example.com/trent-boult.png",
+    "CountryOrigin": "New Zealand",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left Arm Fast Medium",
+    "battingStyle": "Left Hand Bat",
+    "price": 1000000
+  },
+  {
+    "playerName": "Kagiso Rabada",
+    "playerImage": "https://example.com/kagiso-rabada.png",
+    "CountryOrigin": "South Africa",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right Arm Fast",
+    "battingStyle": "Left Hand Bat",
+    "price": 1000000
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerImage": "https://example.com/mustafizur-rahman.png",
+    "CountryOrigin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left Arm Fast Medium",
+    "battingStyle": "Left Hand Bat",
+    "price": 850000
+  },
+  {
+    "playerName": "Taskin Ahmed",
+    "playerImage": "https://example.com/taskin-ahmed.png",
+    "CountryOrigin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right Arm Fast",
+    "battingStyle": "Right Hand Bat",
+    "price": 750000
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImage": "https://example.com/rashid-khan.png",
+    "CountryOrigin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right Arm Leg Break",
+    "battingStyle": "Right Hand Bat",
+    "price": 1000000
+  },
+  {
+    "playerName": "Adam Zampa",
+    "playerImage": "https://example.com/adam-zampa.png",
+    "CountryOrigin": "Australia",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right Arm Leg Break",
+    "battingStyle": "Right Hand Bat",
+    "price": 800000
+  }
+]
